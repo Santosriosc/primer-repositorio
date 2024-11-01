@@ -1,9 +1,9 @@
-# primer-repositorio
+# Eshopper
+sitio WEB de punto de venta de ropa 
 
-este es mi primer trbajo para la clase 
-3o de programacion vespertino del cbtis 89
+creado por: gabriela duran
+fecha:28 de octubre 2024
 
-nombre; Santos Rios 
-fecha; 21/oct/2024
+proyecto final del submodulo 
 
-el contenido de este ejemplo contiene archivo de texto.
+3o de programacion vesp.
